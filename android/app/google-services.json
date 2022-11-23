@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708528315565",
+    "project_id": "cinema-e52a2",
+    "storage_bucket": "cinema-e52a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708528315565:android:76e09b20eaf4fed5a33a24",
+        "android_client_info": {
+          "package_name": "com.example.nuplex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708528315565-pve852r3cn0digc5fgta3a3ia3bbl8mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgWiB52M5gV5lvrC8q9AUy4V3TRsYA2ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708528315565-pve852r3cn0digc5fgta3a3ia3bbl8mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
